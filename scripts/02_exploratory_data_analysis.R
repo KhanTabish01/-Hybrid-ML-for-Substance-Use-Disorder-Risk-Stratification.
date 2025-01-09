@@ -171,3 +171,5 @@ final_counts_plot <- ggplot(class_counts, aes(x = latent_class, y = n, fill = la
 print(final_counts_plot)
 
 cat("\n--- Step 1 Complete. All data files saved in the 'data' folder. ---\n")
+
+
