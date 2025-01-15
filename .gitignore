@@ -1,0 +1,37 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Ignored directories
+/data/
+/plots/
+/shap_plots/
+/trained_models/
+/trained_models_smote/
+/trained_rf_models/
+/all_lca_models/
+/results/
+
+# Allow specific files
+!/data/NSDUH_2015-2019.csv
+!/data/class_1_modeling_data.csv
+!/data/class_2_modeling_data.csv
+!/data/class_3_modeling_data.csv
+!/data/class_4_modeling_data.csv
+!/results/table1.html
+!/results/table2.html
+
