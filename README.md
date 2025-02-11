@@ -12,3 +12,5 @@ This project uses Latent Class Analysis (LCA) to identify distinct subgroups of 
 - `trained_models/`: Contains saved trained models.
 - `results/`: Contains result files like tables.
 - `docs/`: Contains project documentation.
+
+
