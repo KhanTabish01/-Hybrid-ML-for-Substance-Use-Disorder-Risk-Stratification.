@@ -606,3 +606,5 @@ write_csv(class_summary, "modified_lca_class_summary.csv")
 cat("- modified_lca_class_summary.csv: Summary of class characteristics\n")
 
 
+
+
