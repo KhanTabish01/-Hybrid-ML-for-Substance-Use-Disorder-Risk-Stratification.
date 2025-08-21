@@ -1,5 +1,7 @@
 # Latent Class Analysis of Substance Use Disorder Risks
 
+![Framework](docs/framework.png)
+
 ## Project Overview
 This project presents a hybrid machine learning approach to identify and stratify unique risk factors for Substance Use Disorder (SUD). The study leverages Latent Class Analysis (LCA) on the National Survey on Drug Use and Health (NSDUH) 2015-2019 dataset to uncover distinct subgroups (latent classes) of individuals based on shared characteristics and risk factors.
 
